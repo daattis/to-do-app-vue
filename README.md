@@ -1,4 +1,4 @@
-# to-do-app-vue
+# A responsive todo app done while practising Vue and vuetify. 
 
 ## Project setup
 ```
@@ -9,11 +9,3 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
